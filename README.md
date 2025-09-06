@@ -17,3 +17,21 @@ I currently live in the misty Mayan highlands of southern Mexico, but am not par
 > You are not obliged to complete the work, but neither are you free to desist from it.
 
 ([Rabbi Tarfon](https://en.wikipedia.org/wiki/Rabbi_Tarfon))
+
+## GitHub Stats
+
+<a href="https://github.com/zaneselvans#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?count_private=true&username=zaneselvans&show_icons=true&theme=default#gh-light-mode-only" alt="Zane's GitHub stats - Light Mode" />
+</a>
+
+<a href="https://github.com/zaneselvans#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?count_private=true&username=zaneselvans&show_icons=true&theme=radical#gh-dark-mode-only" alt="Zane's GitHub stats - Dark Mode" />
+</a>
+
+<a href="https://github.com/zaneselvans#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=zaneselvans&langs_count=10&layout=compact&hide=html,jupyter%20notebook&theme=default#gh-light-mode-only" alt="Top Languages - Light Mode" />
+</a>
+
+<a href="https://github.com/zaneselvans#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=zaneselvans&langs_count=10&layout=compact&hide=html,jupyter%20notebook&theme=radical#gh-dark-mode-only" alt="Top Languages - Dark Mode" />
+</a>
